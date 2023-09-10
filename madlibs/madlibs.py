@@ -10,4 +10,6 @@ verb2 = input("Verb:  ")
 famous_person  = input("Famous person:  ")
 
 madlib = f"Computer programming is s {adj}!  It makes me so excited all the time because \
-    I love to {verb1}. Stay Hydrated and {verb2}  Like ypu are {famous_person}!"
+I love to {verb1}. Stay Hydrated and {verb2}  Like you are {famous_person}!"
+
+print(madlib)
